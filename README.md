@@ -1,4 +1,5 @@
 # VOC Port EDP Internship Report
+<img width="754" height="1071" alt="cover-page" src="https://github.com/user-attachments/assets/babc2141-2d15-4c54-bf5f-07fb63cc13d9" />
 
 ---
 
